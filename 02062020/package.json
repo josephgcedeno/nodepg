@@ -1,0 +1,24 @@
+{
+  "name": "activity",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cedeno-prob1": "node cedeno-prob1.js",
+    "cedeno-prob2": "node cedeno-prob2.js",
+    "cedeno-prob3": "node cedeno-prob3.js",
+    "cedeno-prob4": "node cedeno-prob4.js",
+    "cedeno-prob5": "node cedeno-prob5.js",
+    "cedeno-prob6": "node cedeno-prob6.js",
+    "cedeno-prob7": "node cedeno-prob7.js",
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "pg": "^7.18.1"
+  }
+}
